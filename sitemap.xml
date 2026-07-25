@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.yumeria.dev/posts/hello-world/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.yumeria.dev/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.yumeria.dev/posts/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.yumeria.dev/categories/</loc>
+  </url><url>
+    <loc>https://blog.yumeria.dev/search/</loc>
+  </url><url>
+    <loc>https://blog.yumeria.dev/tags/</loc>
+  </url>
+</urlset>
